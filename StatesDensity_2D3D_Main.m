@@ -8,9 +8,21 @@
 % 2.42: "Two-dimensional systems" page 31
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % "Density of states of a two-dimensional electron gas including nonparabolicity"
-% J. A. López-Villanueva, F. Gámiz, I. Melchor, and J. A. Jiménez-Tejada
+% J. A. LÃ³pez-Villanueva, F. GÃ¡miz, I. Melchor, and J. A. JimÃ©nez-Tejada
 % Journal of Applied Physics 75, 4267 (1994); doi: 10.1063/1.355967
 % http://dx.doi.org/10.1063/1.355967
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% "On the Thermodynamics of a Two-Dimensional Electron Gas with Non-Parabolic Dispersion"
+% G. Gulyamov, B. T. Abdulazizov
+% World Journal of Condensed Matter Physics, 2016, 6, 294-299
+% DOI: 10.4236/wjcmp.2016.64028
+% https://www.scirp.org/pdf/WJCMP_2016111716503321.pdf
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% "Effect of Temperature and Band Nonparabolicity on Density of States of Two Dimensional Electron Gas"
+% G. Gulyamov, P. J. Baymatov, B. T. Abdulazizov
+% Journal of Applied Mathematics and Physics, 2016, 4, 272-278
+% DOI: 10.4236/jamp.2016.42034
+% https://www.scirp.org/pdf/JAMP_2016022514420230.pdf
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 clear all
